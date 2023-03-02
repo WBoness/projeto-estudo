@@ -9,7 +9,7 @@ git add .
 
 git commit -m "Coment�rio"
  
-git remote add origin https://github.com/WBoness/https://github.com/WBoness/projeto-estudo.git.git
+git remote add origin https://github.com/WBoness/https://github.com/WBoness/projeto-estudo.git
 
 git push -u origin master
 
